@@ -2,4 +2,4 @@
 
 This repository has some examples from an intro git course.
 
-$\frac{df(x)}{dx} = f'(x)$
+Simple commutator: $[\hat{A}, \hat{B}] = \hat{A}\hat{B} - \hat{B}\hat{A}$
